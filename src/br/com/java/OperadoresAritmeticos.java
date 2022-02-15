@@ -18,6 +18,11 @@ public class OperadoresAritmeticos {
 		int multiplicacao = valor1 * valor2;
 		int divisao = valor1 / valor2;
 		int resto = valor1 % valor2;
+		System.out.println("A soma é: " + soma);
+		System.out.println("A subtração é: " + subtracao);
+		System.out.println("A multiplicação é: " + multiplicacao);
+		System.out.println("A divisao é: " + divisao);
+		System.out.println("O resto é: " + resto);
 	}
 
 }

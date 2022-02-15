@@ -3,7 +3,6 @@ package br.com.java;
 public class TiposDeDados {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		int valor = 5;
 		float valorFlutuante = 3.5f;
